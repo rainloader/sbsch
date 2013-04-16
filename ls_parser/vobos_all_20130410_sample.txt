@@ -1,0 +1,128 @@
+./vobos/2008   chuseok:
+합계 12
+-rw-rw-r-- 1 cmsuser webadmin    2  9월 11  2008 blank.html
+-rw-rw-r-- 1 cmsuser webadmin  799  9월 11  2008 index.html
+-rw-rw-r-- 1 cmsuser webadmin  799  9월 11  2008 index_preview.html
+drwxrwxr-x 2 cmsuser webadmin 4096  9월 11  2008 sub
+
+./vobos/2008chuseok/sub:
+합계 120
+-rw-rw-r-- 1 cmsuser webadmin  8213  9월 11  2008 sub_culture.html
+-rw-rw-r-- 1 cmsuser webadmin 20111  9월 11  2008 sub_entertain.html
+-rw-rw-r-- 1 cmsuser webadmin 39475  9월 11  2008 sub_freevod_drama.html
+-rw-rw-r-- 1 cmsuser webadmin  2327  9월 11  2008 sub_freevod_movie.html
+-rw-rw-r-- 1 cmsuser webadmin 35424  9월 11  2008 sub_movie.html
+
+./vobos/2008olympic:
+합계 128
+drwxrwxr-x 2 cmsuser webadmin  4096  8월  8  2008 bbs
+drwxrwxr-x 3 cmsuser webadmin  8192  5월  3  2012 common
+drwxrwxr-x 2 cmsuser webadmin  4096  1월 16  2009 cooper
+-rw-rw-r-- 1 cmsuser webadmin   612  7월 31  2008 crossdomain.xml
+drwxrwxr-x 2 cmsuser webadmin  4096  8월  8  2008 css
+drwxrwxr-x 2 cmsuser webadmin  4096  8월  9  2008 feed
+drwxrwxr-x 2 cmsuser webadmin  4096  8월  8  2008 gameplan
+drwxrwxr-x 2 cmsuser webadmin  4096  7월 30  2008 guide
+-rw-rw-r-- 1 cmsuser webadmin  4848  8월  4  2008 iframe_main.html
+-rw-rw-r-- 1 cmsuser webadmin   100  1월 18  2010 index.html
+drwxrwxr-x 2 cmsuser webadmin 16384  6월 23  2012 info
+drwxrwxr-x 2 cmsuser webadmin  4096  8월 21  2008 js
+drwxrwxr-x 2 cmsuser webadmin  4096  8월 12  2008 main
+drwxrwxr-x 2 cmsuser webadmin  4096  7월 30  2008 medal
+drwxrwxr-x 2 cmsuser webadmin  4096  8월 18  2008 onair
+drwxrwxr-x 5 cmsuser webadmin  8192  8월 21  2008 pop
+drwxrwxr-x 2 cmsuser webadmin  4096  8월 22  2008 popup
+drwxrwxr-x 2 cmsuser webadmin  4096  7월 30  2008 review
+drwxrwxr-x 3 cmsuser webadmin 12288  8월 22  2008 sub
+drwxrwxr-x 2 cmsuser webadmin  4096  8월 27  2008 swf
+drwxrwxr-x 5 cmsuser webadmin  4096  8월  6  2008 teaser_bak
+drwxrwxr-x 2 cmsuser webadmin  4096  8월  1  2008 test
+drwxrwxr-x 2 cmsuser webadmin  4096  8월 22  2008 vod
+drwxrwxr-x 3 cmsuser webadmin  4096  8월  5  2008 xml
+
+./vobos/2008olympic/bbs:
+합계 16
+-rw-rw-r-- 1 cmsuser webadmin 3907  9월 22  2008 cheer_bbs.jsp
+-rw-rw-r-- 1 cmsuser webadmin 3287  8월  5  2008 cheer_bbs2.jsp
+-rw-rw-r-- 1 cmsuser webadmin 3177  9월 22  2008 notice_bbs.jsp
+-rw-rw-r-- 1 cmsuser webadmin 3183  9월 22  2008 photo_bbs.jsp
+
+./vobos/2008olympic/common:
+합계 268
+-rw-rw-r-- 1 cmsuser webadmin  1096  7월 31  2008 common_bottom.jsp
+-rw-rw-r-- 1 cmsuser webadmin   447  9월 22  2008 common_contentsR.jsp
+-rw-rw-r-- 1 cmsuser webadmin   315  9월 22  2008 common_contentsR_onair.jsp
+-rw-rw-r-- 1 cmsuser webadmin  6121  5월  3  2012 common_header.jsp
+-rw-rw-r-- 1 cmsuser webadmin  6121  5월  3  2012 common_header2.jsp
+drwxrwxr-x 2 cmsuser webadmin  4096  8월  9  2008 html
+-rw-rw-r-- 1 cmsuser webadmin  1560  8월  6  2008 iframe_banner_left.html
+-rw-rw-r-- 1 cmsuser webadmin  1550  8월  6  2008 iframe_banner_left2.html
+-rw-rw-r-- 1 cmsuser webadmin  3240  8월 25  2008 iframe_banner_main.html
+-rw-rw-r-- 1 cmsuser webadmin  3562  9월 22  2008 iframe_banner_right.html
+-rw-rw-r-- 1 cmsuser webadmin 13252  9월  7  2011 iframe_main.jsp
+-rw-rw-r-- 1 cmsuser webadmin  1662  8월 12  2008 iframe_main_news.html
+-rw-rw-r-- 1 cmsuser webadmin  1680  8월 12  2008                                                                   ifra                                                  me_sub_news.html     
+-rw-rw-r-- 1 cmsuser webadmin   948  8월 22  2008 main_banner_center.jsp
+-rw-rw-r-- 1 cmsuser webadmin   962  8월 22  2008 main_banner_center2.jsp
+-rw-rw-r-- 1 cmsuser webadmin  9105  9월  7  2011 main_calendar.jsp
+-rw-rw-r-- 1 cmsuser webadmin  9105  9월  7  2011 main_calendar2.jsp
+-rw-rw-r-- 1 cmsuser webadmin  8528  9월  7  2011 main_calendar_2.jsp
+-rw-rw-r-- 1 cmsuser webadmin  1345  8월 25  2008 main_contentsR.jsp
+-rw-rw-r-- 1 cmsuser webadmin  5142  9월  7  2011 main_medal.jsp
+-rw-rw-r-- 1 cmsuser webadmin  7112  9월  7  2011 main_news.jsp
+-rw-rw-r-- 1 cmsuser webadmin  4745  9월  7  2011 main_vodtab.jsp
+-rw-rw-r-- 1 cmsuser webadmin  3660  9월  7  2011 main_vodtab1.jsp
+-rw-rw-r-- 1 cmsuser webadmin  4835  9월  7  2011 main_vodtab2.jsp
+-rw-rw-r-- 1 cmsuser webadmin  3796  9월  7  2011 main_vodtab_type2.jsp
+-rw-rw-r-- 1 cmsuser webadmin 23947  7월 31  2008 news_util.jsp
+-rw-rw-r-- 1 cmsuser webadmin 13500  9월  7  2011 olympic_reply.jsp
+-rw-rw-r-- 1 cmsuser webadmin  6522  9월  7  2011 onAir_contentsR.jsp
+-rw-rw-r-- 1 cmsuser webadmin   283  7월 31  2008 player_bottom.jsp
+-rw-rw-r-- 1 cmsuser webadmin  1015  7월 31  2008 player_contentsR.jsp
+-rw-rw-r-- 1 cmsuser webadmin  3153  9월  7  2011 player_news.jsp
+-rw-rw-r-- 1 cmsuser webadmin   396  7월 31  2008 player_top.jsp
+-rw-rw-r-- 1 cmsuser webadmin  9098  9월  7  2011 sub_contentsL.jsp
+-rw-rw-r-- 1 cmsuser webadmin  9043  9월  7  2011 sub_contentsL_onair.jsp
+-rw-rw-r-- 1 cmsuser webadmin  9868  9월  7  2011 sub_contentsT.jsp
+-rw-rw-r-- 1 cmsuser webadmin  7873  9월  7  2011 uccLeftMenu.jsp
+
+./vobos/2008olympic/common/html:
+합계 16
+-rw-rw-r-- 1 cmsuser webadmin 7546  9월 16  2008 iframe_main.html
+-rw-rw-r-- 1 cmsuser webadmin 4977  8월  9  2008 iframe_main2.html
+
+./vobos/2008olympic/cooper:
+합계 108
+-rw-rw-r-- 1 cmsuser webadmin  7837  8월 15  2008 embed_type5.jsp
+-rw-rw-r-- 1 cmsuser webadmin  6606  8월  8  2008 hotissue.jsp
+-rw-rw-r-- 1 cmsuser webadmin  5697  8월 13  2008 hotissue_list.jsp
+-rw-rw-r-- 1 cmsuser webadmin  3855  8월  8  2008 newslist.jsp
+-rw-rw-r-- 1 cmsuser webadmin  3853  1월 16  2009 newslist_01.jsp
+-rw-rw-r-- 1 cmsuser webadmin  5269  2월 18  2009 newslist_01_2.jsp
+-rw-rw-r-- 1 cmsuser webadmin  7080  8월 16  2008 type1.jsp
+-rw-rw-r-- 1 cmsuser webadmin  7040  8월 16  2008 type2.jsp
+-rw-rw-r-- 1 cmsuser webadmin  5409  8월 16  2008 type3.jsp
+-rw-rw-r-- 1 cmsuser webadmin  4506  8월 16  2008 type4.jsp
+-rw-rw-r-- 1 cmsuser webadmin  7759  8월 16  2008 type5.jsp
+-rw-rw-r-- 1 cmsuser webadmin 15111  8월 21  2008 type6.jsp
+-rw-rw-r-- 1 cmsuser webadmin 11206  8월 16  2008 type7.jsp
+
+./vobos/2008olympic/css:
+합계 60
+-rw-rw-r-- 1 cmsuser webadmin  7948  8월 15  2008 main.css
+-rw-rw-r-- 1 cmsuser webadmin  8971  8월  1  2008 popup.css
+-rw-rw-r-- 1 cmsuser webadmin 19855  8월  7  2008 style.css
+-rw-rw-r-- 1 cmsuser webadmin 19855  8월  8  2008 sub.css
+
+./vobos/2008olympic/feed:
+합계 32
+-rw-rw-r-- 1 cmsuser webadmin 4480  8월  9  2008 vod_add.jsp
+-rw-rw-r-- 1 cmsuser webadmin 4579  8월  9  2008 vod_delete.jsp
+-rw-rw-r-- 1 cmsuser webadmin 4577  8월  9  2008 vod_modify.jsp
+-rw-rw-r-- 1 cmsuser webadmin 4400  8월  9  2008 vod_total.jsp
+
+./vobos/2008olympic/gameplan:
+합계 12
+-rw-rw-r-- 1 cmsuser webadmin 3866  8월 25  2008 info_schedul_NOEXT_e
+-rw-rw-r-- 1 cmsuser webadmin 5655  8월  8  2008 info_schedule2.jsp
+
