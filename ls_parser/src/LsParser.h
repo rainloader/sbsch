@@ -23,6 +23,7 @@ public:
 
 	void openFiles(const char *rFileName, const char *wFileName);
 	void parse();
+	void analyze();
 	void closeFiles();
 
 protected:
